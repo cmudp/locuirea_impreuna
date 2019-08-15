@@ -1,0 +1,11 @@
+1. go to https://ebook.online-convert.com/convert-to-azw3
+2. drag and drop kpf file over the gree area
+3. Choose Kindle Paperwhite 3 (or other kindle type)
+4. Convert
+
+^^^above method is already deprecated
+
+1. go to https://www.conversion-tool.com/azw/
+2. set Load File path by pressing Choose File and giving kpf path
+3. press Start conversion
+4. drop the file to kindle device
